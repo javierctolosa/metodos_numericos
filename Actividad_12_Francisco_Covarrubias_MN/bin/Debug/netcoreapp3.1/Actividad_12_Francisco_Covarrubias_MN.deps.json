@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Actividad_12_Francisco_Covarrubias_MN/1.0.0": {
+        "runtime": {
+          "Actividad_12_Francisco_Covarrubias_MN.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Actividad_12_Francisco_Covarrubias_MN/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

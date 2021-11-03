@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Integral rectangular/1.0.0": {
+        "runtime": {
+          "Integral rectangular.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Integral rectangular/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
