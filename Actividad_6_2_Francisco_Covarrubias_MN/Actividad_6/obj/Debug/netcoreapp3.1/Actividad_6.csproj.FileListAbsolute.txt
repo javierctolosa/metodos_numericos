@@ -1,0 +1,22 @@
+C:\Users\Leslie\source\repos\Actividad_6\Actividad_6\bin\Debug\netcoreapp3.1\Actividad_6.exe
+C:\Users\Leslie\source\repos\Actividad_6\Actividad_6\bin\Debug\netcoreapp3.1\Actividad_6.deps.json
+C:\Users\Leslie\source\repos\Actividad_6\Actividad_6\bin\Debug\netcoreapp3.1\Actividad_6.runtimeconfig.json
+C:\Users\Leslie\source\repos\Actividad_6\Actividad_6\bin\Debug\netcoreapp3.1\Actividad_6.runtimeconfig.dev.json
+C:\Users\Leslie\source\repos\Actividad_6\Actividad_6\bin\Debug\netcoreapp3.1\Actividad_6.dll
+C:\Users\Leslie\source\repos\Actividad_6\Actividad_6\bin\Debug\netcoreapp3.1\Actividad_6.pdb
+C:\Users\Leslie\source\repos\Actividad_6\Actividad_6\obj\Debug\netcoreapp3.1\Actividad_6.AssemblyInfoInputs.cache
+C:\Users\Leslie\source\repos\Actividad_6\Actividad_6\obj\Debug\netcoreapp3.1\Actividad_6.AssemblyInfo.cs
+C:\Users\Leslie\source\repos\Actividad_6\Actividad_6\obj\Debug\netcoreapp3.1\Actividad_6.dll
+C:\Users\Leslie\source\repos\Actividad_6\Actividad_6\obj\Debug\netcoreapp3.1\Actividad_6.pdb
+C:\Users\Leslie\source\repos\Actividad_6\Actividad_6\obj\Debug\netcoreapp3.1\Actividad_6.csprojAssemblyReference.cache
+C:\Users\franc\OneDrive - Universidad TecMilenio\Ingeniería Industrial\5to Semestre\Métodos Numéricos\Actividad 6 - MN\Actividad_6_2_Francisco_Covarrubias_MN\Actividad_6\bin\Debug\netcoreapp3.1\Actividad_6.exe
+C:\Users\franc\OneDrive - Universidad TecMilenio\Ingeniería Industrial\5to Semestre\Métodos Numéricos\Actividad 6 - MN\Actividad_6_2_Francisco_Covarrubias_MN\Actividad_6\bin\Debug\netcoreapp3.1\Actividad_6.deps.json
+C:\Users\franc\OneDrive - Universidad TecMilenio\Ingeniería Industrial\5to Semestre\Métodos Numéricos\Actividad 6 - MN\Actividad_6_2_Francisco_Covarrubias_MN\Actividad_6\bin\Debug\netcoreapp3.1\Actividad_6.runtimeconfig.json
+C:\Users\franc\OneDrive - Universidad TecMilenio\Ingeniería Industrial\5to Semestre\Métodos Numéricos\Actividad 6 - MN\Actividad_6_2_Francisco_Covarrubias_MN\Actividad_6\bin\Debug\netcoreapp3.1\Actividad_6.runtimeconfig.dev.json
+C:\Users\franc\OneDrive - Universidad TecMilenio\Ingeniería Industrial\5to Semestre\Métodos Numéricos\Actividad 6 - MN\Actividad_6_2_Francisco_Covarrubias_MN\Actividad_6\bin\Debug\netcoreapp3.1\Actividad_6.dll
+C:\Users\franc\OneDrive - Universidad TecMilenio\Ingeniería Industrial\5to Semestre\Métodos Numéricos\Actividad 6 - MN\Actividad_6_2_Francisco_Covarrubias_MN\Actividad_6\bin\Debug\netcoreapp3.1\Actividad_6.pdb
+C:\Users\franc\OneDrive - Universidad TecMilenio\Ingeniería Industrial\5to Semestre\Métodos Numéricos\Actividad 6 - MN\Actividad_6_2_Francisco_Covarrubias_MN\Actividad_6\obj\Debug\netcoreapp3.1\Actividad_6.csprojAssemblyReference.cache
+C:\Users\franc\OneDrive - Universidad TecMilenio\Ingeniería Industrial\5to Semestre\Métodos Numéricos\Actividad 6 - MN\Actividad_6_2_Francisco_Covarrubias_MN\Actividad_6\obj\Debug\netcoreapp3.1\Actividad_6.AssemblyInfoInputs.cache
+C:\Users\franc\OneDrive - Universidad TecMilenio\Ingeniería Industrial\5to Semestre\Métodos Numéricos\Actividad 6 - MN\Actividad_6_2_Francisco_Covarrubias_MN\Actividad_6\obj\Debug\netcoreapp3.1\Actividad_6.AssemblyInfo.cs
+C:\Users\franc\OneDrive - Universidad TecMilenio\Ingeniería Industrial\5to Semestre\Métodos Numéricos\Actividad 6 - MN\Actividad_6_2_Francisco_Covarrubias_MN\Actividad_6\obj\Debug\netcoreapp3.1\Actividad_6.dll
+C:\Users\franc\OneDrive - Universidad TecMilenio\Ingeniería Industrial\5to Semestre\Métodos Numéricos\Actividad 6 - MN\Actividad_6_2_Francisco_Covarrubias_MN\Actividad_6\obj\Debug\netcoreapp3.1\Actividad_6.pdb
