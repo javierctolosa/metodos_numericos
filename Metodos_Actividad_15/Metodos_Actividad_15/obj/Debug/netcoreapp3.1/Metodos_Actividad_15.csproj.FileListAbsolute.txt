@@ -1,0 +1,23 @@
+C:/Users/GERARDO/source/repos/Metodos_Actividad_15/Metodos_Actividad_15/bin/Debug/netcoreapp3.1/Metodos_Actividad_15.exe
+C:/Users/GERARDO/source/repos/Metodos_Actividad_15/Metodos_Actividad_15/bin/Debug/netcoreapp3.1/Metodos_Actividad_15.deps.json
+C:/Users/GERARDO/source/repos/Metodos_Actividad_15/Metodos_Actividad_15/bin/Debug/netcoreapp3.1/Metodos_Actividad_15.runtimeconfig.json
+C:/Users/GERARDO/source/repos/Metodos_Actividad_15/Metodos_Actividad_15/bin/Debug/netcoreapp3.1/Metodos_Actividad_15.runtimeconfig.dev.json
+C:/Users/GERARDO/source/repos/Metodos_Actividad_15/Metodos_Actividad_15/bin/Debug/netcoreapp3.1/Metodos_Actividad_15.dll
+C:/Users/GERARDO/source/repos/Metodos_Actividad_15/Metodos_Actividad_15/bin/Debug/netcoreapp3.1/Metodos_Actividad_15.pdb
+C:/Users/GERARDO/source/repos/Metodos_Actividad_15/Metodos_Actividad_15/obj/Debug/netcoreapp3.1/Metodos_Actividad_15.csprojAssemblyReference.cache
+C:/Users/GERARDO/source/repos/Metodos_Actividad_15/Metodos_Actividad_15/obj/Debug/netcoreapp3.1/Metodos_Actividad_15.AssemblyInfoInputs.cache
+C:/Users/GERARDO/source/repos/Metodos_Actividad_15/Metodos_Actividad_15/obj/Debug/netcoreapp3.1/Metodos_Actividad_15.AssemblyInfo.cs
+C:/Users/GERARDO/source/repos/Metodos_Actividad_15/Metodos_Actividad_15/obj/Debug/netcoreapp3.1/Metodos_Actividad_15.dll
+C:/Users/GERARDO/source/repos/Metodos_Actividad_15/Metodos_Actividad_15/obj/Debug/netcoreapp3.1/Metodos_Actividad_15.pdb
+/Users/Javiercovat/Desktop/OneDrive - Universidad TecMilenio/Ingeniería Industrial/5to Semestre/Métodos Numéricos/Actividad 15 - MN/Metodos_Actividad_15/Metodos_Actividad_15/bin/Debug/netcoreapp3.1/Metodos_Actividad_15.deps.json
+/Users/Javiercovat/Desktop/OneDrive - Universidad TecMilenio/Ingeniería Industrial/5to Semestre/Métodos Numéricos/Actividad 15 - MN/Metodos_Actividad_15/Metodos_Actividad_15/bin/Debug/netcoreapp3.1/Metodos_Actividad_15.runtimeconfig.json
+/Users/Javiercovat/Desktop/OneDrive - Universidad TecMilenio/Ingeniería Industrial/5to Semestre/Métodos Numéricos/Actividad 15 - MN/Metodos_Actividad_15/Metodos_Actividad_15/bin/Debug/netcoreapp3.1/Metodos_Actividad_15.runtimeconfig.dev.json
+/Users/Javiercovat/Desktop/OneDrive - Universidad TecMilenio/Ingeniería Industrial/5to Semestre/Métodos Numéricos/Actividad 15 - MN/Metodos_Actividad_15/Metodos_Actividad_15/bin/Debug/netcoreapp3.1/Metodos_Actividad_15.dll
+/Users/Javiercovat/Desktop/OneDrive - Universidad TecMilenio/Ingeniería Industrial/5to Semestre/Métodos Numéricos/Actividad 15 - MN/Metodos_Actividad_15/Metodos_Actividad_15/bin/Debug/netcoreapp3.1/Metodos_Actividad_15.pdb
+/Users/Javiercovat/Desktop/OneDrive - Universidad TecMilenio/Ingeniería Industrial/5to Semestre/Métodos Numéricos/Actividad 15 - MN/Metodos_Actividad_15/Metodos_Actividad_15/obj/Debug/netcoreapp3.1/Metodos_Actividad_15.csprojAssemblyReference.cache
+/Users/Javiercovat/Desktop/OneDrive - Universidad TecMilenio/Ingeniería Industrial/5to Semestre/Métodos Numéricos/Actividad 15 - MN/Metodos_Actividad_15/Metodos_Actividad_15/obj/Debug/netcoreapp3.1/Metodos_Actividad_15.csproj.CoreCompileInputs.cache
+/Users/Javiercovat/Desktop/OneDrive - Universidad TecMilenio/Ingeniería Industrial/5to Semestre/Métodos Numéricos/Actividad 15 - MN/Metodos_Actividad_15/Metodos_Actividad_15/obj/Debug/netcoreapp3.1/Metodos_Actividad_15.AssemblyInfoInputs.cache
+/Users/Javiercovat/Desktop/OneDrive - Universidad TecMilenio/Ingeniería Industrial/5to Semestre/Métodos Numéricos/Actividad 15 - MN/Metodos_Actividad_15/Metodos_Actividad_15/obj/Debug/netcoreapp3.1/Metodos_Actividad_15.AssemblyInfo.cs
+/Users/Javiercovat/Desktop/OneDrive - Universidad TecMilenio/Ingeniería Industrial/5to Semestre/Métodos Numéricos/Actividad 15 - MN/Metodos_Actividad_15/Metodos_Actividad_15/obj/Debug/netcoreapp3.1/Metodos_Actividad_15.dll
+/Users/Javiercovat/Desktop/OneDrive - Universidad TecMilenio/Ingeniería Industrial/5to Semestre/Métodos Numéricos/Actividad 15 - MN/Metodos_Actividad_15/Metodos_Actividad_15/obj/Debug/netcoreapp3.1/Metodos_Actividad_15.pdb
+/Users/Javiercovat/Desktop/OneDrive - Universidad TecMilenio/Ingeniería Industrial/5to Semestre/Métodos Numéricos/Actividad 15 - MN/Metodos_Actividad_15/Metodos_Actividad_15/obj/Debug/netcoreapp3.1/Metodos_Actividad_15.genruntimeconfig.cache
