@@ -1,0 +1,63 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": []
+  },
+  "packageFolders": {
+    "/Users/Javiercovat/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/Javiercovat/Desktop/OneDrive - Universidad TecMilenio/Ingeniería Industrial/5to Semestre/Métodos Numéricos/Evidencia 3 - MN/Metodos_EvidenciaFInal/Metodos_EvidenciaFInal/Metodos_EvidenciaFInal.csproj",
+      "projectName": "Metodos_EvidenciaFInal",
+      "projectPath": "/Users/Javiercovat/Desktop/OneDrive - Universidad TecMilenio/Ingeniería Industrial/5to Semestre/Métodos Numéricos/Evidencia 3 - MN/Metodos_EvidenciaFInal/Metodos_EvidenciaFInal/Metodos_EvidenciaFInal.csproj",
+      "packagesPath": "/Users/Javiercovat/.nuget/packages/",
+      "outputPath": "/Users/Javiercovat/Desktop/OneDrive - Universidad TecMilenio/Ingeniería Industrial/5to Semestre/Métodos Numéricos/Evidencia 3 - MN/Metodos_EvidenciaFInal/Metodos_EvidenciaFInal/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/Javiercovat/.config/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.200/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

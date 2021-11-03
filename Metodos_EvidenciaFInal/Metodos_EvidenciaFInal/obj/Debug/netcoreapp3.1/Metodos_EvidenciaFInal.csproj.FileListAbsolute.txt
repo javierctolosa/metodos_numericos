@@ -1,0 +1,23 @@
+C:/Users/GERARDO/source/repos/Metodos_EvidenciaFInal/Metodos_EvidenciaFInal/bin/Debug/netcoreapp3.1/Metodos_EvidenciaFInal.exe
+C:/Users/GERARDO/source/repos/Metodos_EvidenciaFInal/Metodos_EvidenciaFInal/bin/Debug/netcoreapp3.1/Metodos_EvidenciaFInal.deps.json
+C:/Users/GERARDO/source/repos/Metodos_EvidenciaFInal/Metodos_EvidenciaFInal/bin/Debug/netcoreapp3.1/Metodos_EvidenciaFInal.runtimeconfig.json
+C:/Users/GERARDO/source/repos/Metodos_EvidenciaFInal/Metodos_EvidenciaFInal/bin/Debug/netcoreapp3.1/Metodos_EvidenciaFInal.runtimeconfig.dev.json
+C:/Users/GERARDO/source/repos/Metodos_EvidenciaFInal/Metodos_EvidenciaFInal/bin/Debug/netcoreapp3.1/Metodos_EvidenciaFInal.dll
+C:/Users/GERARDO/source/repos/Metodos_EvidenciaFInal/Metodos_EvidenciaFInal/bin/Debug/netcoreapp3.1/Metodos_EvidenciaFInal.pdb
+C:/Users/GERARDO/source/repos/Metodos_EvidenciaFInal/Metodos_EvidenciaFInal/obj/Debug/netcoreapp3.1/Metodos_EvidenciaFInal.csprojAssemblyReference.cache
+C:/Users/GERARDO/source/repos/Metodos_EvidenciaFInal/Metodos_EvidenciaFInal/obj/Debug/netcoreapp3.1/Metodos_EvidenciaFInal.AssemblyInfoInputs.cache
+C:/Users/GERARDO/source/repos/Metodos_EvidenciaFInal/Metodos_EvidenciaFInal/obj/Debug/netcoreapp3.1/Metodos_EvidenciaFInal.AssemblyInfo.cs
+C:/Users/GERARDO/source/repos/Metodos_EvidenciaFInal/Metodos_EvidenciaFInal/obj/Debug/netcoreapp3.1/Metodos_EvidenciaFInal.dll
+C:/Users/GERARDO/source/repos/Metodos_EvidenciaFInal/Metodos_EvidenciaFInal/obj/Debug/netcoreapp3.1/Metodos_EvidenciaFInal.pdb
+/Users/Javiercovat/Desktop/OneDrive - Universidad TecMilenio/Ingeniería Industrial/5to Semestre/Métodos Numéricos/Evidencia 3 - MN/Metodos_EvidenciaFInal/Metodos_EvidenciaFInal/bin/Debug/netcoreapp3.1/Metodos_EvidenciaFInal.deps.json
+/Users/Javiercovat/Desktop/OneDrive - Universidad TecMilenio/Ingeniería Industrial/5to Semestre/Métodos Numéricos/Evidencia 3 - MN/Metodos_EvidenciaFInal/Metodos_EvidenciaFInal/bin/Debug/netcoreapp3.1/Metodos_EvidenciaFInal.runtimeconfig.json
+/Users/Javiercovat/Desktop/OneDrive - Universidad TecMilenio/Ingeniería Industrial/5to Semestre/Métodos Numéricos/Evidencia 3 - MN/Metodos_EvidenciaFInal/Metodos_EvidenciaFInal/bin/Debug/netcoreapp3.1/Metodos_EvidenciaFInal.runtimeconfig.dev.json
+/Users/Javiercovat/Desktop/OneDrive - Universidad TecMilenio/Ingeniería Industrial/5to Semestre/Métodos Numéricos/Evidencia 3 - MN/Metodos_EvidenciaFInal/Metodos_EvidenciaFInal/bin/Debug/netcoreapp3.1/Metodos_EvidenciaFInal.dll
+/Users/Javiercovat/Desktop/OneDrive - Universidad TecMilenio/Ingeniería Industrial/5to Semestre/Métodos Numéricos/Evidencia 3 - MN/Metodos_EvidenciaFInal/Metodos_EvidenciaFInal/bin/Debug/netcoreapp3.1/Metodos_EvidenciaFInal.pdb
+/Users/Javiercovat/Desktop/OneDrive - Universidad TecMilenio/Ingeniería Industrial/5to Semestre/Métodos Numéricos/Evidencia 3 - MN/Metodos_EvidenciaFInal/Metodos_EvidenciaFInal/obj/Debug/netcoreapp3.1/Metodos_EvidenciaFInal.csprojAssemblyReference.cache
+/Users/Javiercovat/Desktop/OneDrive - Universidad TecMilenio/Ingeniería Industrial/5to Semestre/Métodos Numéricos/Evidencia 3 - MN/Metodos_EvidenciaFInal/Metodos_EvidenciaFInal/obj/Debug/netcoreapp3.1/Metodos_EvidenciaFInal.csproj.CoreCompileInputs.cache
+/Users/Javiercovat/Desktop/OneDrive - Universidad TecMilenio/Ingeniería Industrial/5to Semestre/Métodos Numéricos/Evidencia 3 - MN/Metodos_EvidenciaFInal/Metodos_EvidenciaFInal/obj/Debug/netcoreapp3.1/Metodos_EvidenciaFInal.AssemblyInfoInputs.cache
+/Users/Javiercovat/Desktop/OneDrive - Universidad TecMilenio/Ingeniería Industrial/5to Semestre/Métodos Numéricos/Evidencia 3 - MN/Metodos_EvidenciaFInal/Metodos_EvidenciaFInal/obj/Debug/netcoreapp3.1/Metodos_EvidenciaFInal.AssemblyInfo.cs
+/Users/Javiercovat/Desktop/OneDrive - Universidad TecMilenio/Ingeniería Industrial/5to Semestre/Métodos Numéricos/Evidencia 3 - MN/Metodos_EvidenciaFInal/Metodos_EvidenciaFInal/obj/Debug/netcoreapp3.1/Metodos_EvidenciaFInal.dll
+/Users/Javiercovat/Desktop/OneDrive - Universidad TecMilenio/Ingeniería Industrial/5to Semestre/Métodos Numéricos/Evidencia 3 - MN/Metodos_EvidenciaFInal/Metodos_EvidenciaFInal/obj/Debug/netcoreapp3.1/Metodos_EvidenciaFInal.pdb
+/Users/Javiercovat/Desktop/OneDrive - Universidad TecMilenio/Ingeniería Industrial/5to Semestre/Métodos Numéricos/Evidencia 3 - MN/Metodos_EvidenciaFInal/Metodos_EvidenciaFInal/obj/Debug/netcoreapp3.1/Metodos_EvidenciaFInal.genruntimeconfig.cache
