@@ -1,0 +1,11 @@
+C:\Users\franc\OneDrive - Universidad TecMilenio\5to Semestre\Métodos Numéricos\Actividad 4 - MN\Actividad 4.3 - MN\bin\Debug\netcoreapp3.1\Actividad 4.3 - MN.exe
+C:\Users\franc\OneDrive - Universidad TecMilenio\5to Semestre\Métodos Numéricos\Actividad 4 - MN\Actividad 4.3 - MN\bin\Debug\netcoreapp3.1\Actividad 4.3 - MN.deps.json
+C:\Users\franc\OneDrive - Universidad TecMilenio\5to Semestre\Métodos Numéricos\Actividad 4 - MN\Actividad 4.3 - MN\bin\Debug\netcoreapp3.1\Actividad 4.3 - MN.runtimeconfig.json
+C:\Users\franc\OneDrive - Universidad TecMilenio\5to Semestre\Métodos Numéricos\Actividad 4 - MN\Actividad 4.3 - MN\bin\Debug\netcoreapp3.1\Actividad 4.3 - MN.runtimeconfig.dev.json
+C:\Users\franc\OneDrive - Universidad TecMilenio\5to Semestre\Métodos Numéricos\Actividad 4 - MN\Actividad 4.3 - MN\bin\Debug\netcoreapp3.1\Actividad 4.3 - MN.dll
+C:\Users\franc\OneDrive - Universidad TecMilenio\5to Semestre\Métodos Numéricos\Actividad 4 - MN\Actividad 4.3 - MN\bin\Debug\netcoreapp3.1\Actividad 4.3 - MN.pdb
+C:\Users\franc\OneDrive - Universidad TecMilenio\5to Semestre\Métodos Numéricos\Actividad 4 - MN\Actividad 4.3 - MN\obj\Debug\netcoreapp3.1\Actividad 4.3 - MN.csprojAssemblyReference.cache
+C:\Users\franc\OneDrive - Universidad TecMilenio\5to Semestre\Métodos Numéricos\Actividad 4 - MN\Actividad 4.3 - MN\obj\Debug\netcoreapp3.1\Actividad 4.3 - MN.AssemblyInfoInputs.cache
+C:\Users\franc\OneDrive - Universidad TecMilenio\5to Semestre\Métodos Numéricos\Actividad 4 - MN\Actividad 4.3 - MN\obj\Debug\netcoreapp3.1\Actividad 4.3 - MN.AssemblyInfo.cs
+C:\Users\franc\OneDrive - Universidad TecMilenio\5to Semestre\Métodos Numéricos\Actividad 4 - MN\Actividad 4.3 - MN\obj\Debug\netcoreapp3.1\Actividad 4.3 - MN.dll
+C:\Users\franc\OneDrive - Universidad TecMilenio\5to Semestre\Métodos Numéricos\Actividad 4 - MN\Actividad 4.3 - MN\obj\Debug\netcoreapp3.1\Actividad 4.3 - MN.pdb
