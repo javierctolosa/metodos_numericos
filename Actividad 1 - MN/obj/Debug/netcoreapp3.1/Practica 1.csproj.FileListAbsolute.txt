@@ -1,0 +1,11 @@
+C:\Users\franc\OneDrive - Universidad TecMilenio\5to Semestre\Métodos Numéricos\Practica 1\obj\Debug\netcoreapp3.1\Practica 1.csprojAssemblyReference.cache
+C:\Users\franc\OneDrive - Universidad TecMilenio\5to Semestre\Métodos Numéricos\Practica 1\obj\Debug\netcoreapp3.1\Practica 1.AssemblyInfoInputs.cache
+C:\Users\franc\OneDrive - Universidad TecMilenio\5to Semestre\Métodos Numéricos\Practica 1\obj\Debug\netcoreapp3.1\Practica 1.AssemblyInfo.cs
+C:\Users\franc\OneDrive - Universidad TecMilenio\5to Semestre\Métodos Numéricos\Practica 1\bin\Debug\netcoreapp3.1\Practica 1.exe
+C:\Users\franc\OneDrive - Universidad TecMilenio\5to Semestre\Métodos Numéricos\Practica 1\bin\Debug\netcoreapp3.1\Practica 1.deps.json
+C:\Users\franc\OneDrive - Universidad TecMilenio\5to Semestre\Métodos Numéricos\Practica 1\bin\Debug\netcoreapp3.1\Practica 1.runtimeconfig.json
+C:\Users\franc\OneDrive - Universidad TecMilenio\5to Semestre\Métodos Numéricos\Practica 1\bin\Debug\netcoreapp3.1\Practica 1.runtimeconfig.dev.json
+C:\Users\franc\OneDrive - Universidad TecMilenio\5to Semestre\Métodos Numéricos\Practica 1\bin\Debug\netcoreapp3.1\Practica 1.dll
+C:\Users\franc\OneDrive - Universidad TecMilenio\5to Semestre\Métodos Numéricos\Practica 1\bin\Debug\netcoreapp3.1\Practica 1.pdb
+C:\Users\franc\OneDrive - Universidad TecMilenio\5to Semestre\Métodos Numéricos\Practica 1\obj\Debug\netcoreapp3.1\Practica 1.dll
+C:\Users\franc\OneDrive - Universidad TecMilenio\5to Semestre\Métodos Numéricos\Practica 1\obj\Debug\netcoreapp3.1\Practica 1.pdb
